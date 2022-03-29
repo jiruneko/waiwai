@@ -1,1 +1,1 @@
-# waiwaiblog(sinple blog)
+# waiwaiblog(simple blog)
