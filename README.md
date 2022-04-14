@@ -1,1 +1,1 @@
-# waiwaiblog(simple blog)
+# waiwaiproject(tutorial code)
